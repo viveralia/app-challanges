@@ -1,6 +1,7 @@
 # Stoic Quotes App
 
 **Difficulty:** 1/5
+
 **Requirements:** None
 
 The objective is to develop an app that shows users a random wise quote from the stoic api.
@@ -13,7 +14,7 @@ The objective is to develop an app that shows users a random wise quote from the
 
 ## 🧞‍♂️ User stories
 - As a user I want to get an stoic quote every time I open the app.
-- As a user I want to share the quote to Facebook, Twitter and WhatsApp.
+- As a user I want to share the quote on Facebook, Twitter or WhatsApp.
 - As a user I want to get a different quote by pressing a button without leaving the app.
 
 ## 📖 Resources
